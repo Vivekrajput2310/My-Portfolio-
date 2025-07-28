@@ -102,7 +102,7 @@ function type() {
     i = (i + 1) % words.length;
   }
 
-  setTimeout(type, isDeleting ? 50 : 100);
+  setTimeout(type, isDeleting ? 100 : 150);
 }
 
 document.addEventListener("DOMContentLoaded", type);
