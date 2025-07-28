@@ -33,9 +33,10 @@ function scrollToAbout() {
 // Dark Mode Toggle
 function modeChange() {
   mode.classList.toggle('fa-solid');
-  mode.classList.toggle('fa-sun');
-  mode.classList.toggle('fa-solid');
   mode.classList.toggle('fa-moon');
+  mode.classList.toggle('fa-solid');
+  mode.classList.toggle('fa-sun');
+  mode.classList.toggle('dark-mode');
   body.classList.toggle('dark-body');
   header.classList.toggle('dark-header');
   footer.classList.toggle('dark-footer');
