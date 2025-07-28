@@ -80,7 +80,8 @@ header nav ul li {
 
 
 .greet .typing-text {
-  font-family:'serif',poppins, monospace;
+  font-family:'Roboto',poppins, monospace;
+  font-weight : 500 ;
   font-size: 24px;
   white-space: nowrap;
   overflow: hidden;
