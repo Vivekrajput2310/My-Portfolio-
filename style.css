@@ -738,23 +738,17 @@ body ,header ,.logo, hr, .circle , h2,.eduline, .modes , iframe ,footer ,section
     position: fixed;
     right: 0;
     top: 0;
-  }
-  
+  }  
   .open {
     opacity: 0;
   }
-
 }
-
-
 @media (min-width: 755px){
   .circle{
     position: absolute;
     left: 49.25%;
   }
 }
-
-
 
 /*.dark  mode. */
 
@@ -766,12 +760,15 @@ body ,header ,.logo, hr, .circle , h2,.eduline, .modes , iframe ,footer ,section
   background: rgba(87, 86, 79 ,.5);
   color: #000;
 }
-
 .dark-div , .dark-modes{
   background: rgba(87, 86, 79 , .5);
   backdrop-filter: blur(20px);
 }
- 
+.dark-mode{
+  color: rgba(250, 249, 238 , 1) ;
+  text-shadow: 0 0 2px #fff;
+  font-weight: 550;
+}
 .dark-h2 , .dark-footer , header nav .dark-logo{
   color: rgb(248, 243, 206);
 }
@@ -791,13 +788,11 @@ body ,header ,.logo, hr, .circle , h2,.eduline, .modes , iframe ,footer ,section
   background: rgb(87, 86, 79);
 }
 .certificates .dark-certificateBox ,.projects .dark-projectBox ,.skills .dark-skillBox{
-  background: rgba(122, 122, 115 , .5) ; 
-  
+  background: rgba(122, 122, 115 , .5) ;   
 }
 .greet .dark-greetHeading{
   color: rgb(248, 243, 206);
 }
-
 .dark-h3 ,.projects .project-box  .dark-projectName ,.certificates .certificate-box .dark-certificateName , .education .dark-eduHeading{
   color: rgb(248, 243, 206);
 }
