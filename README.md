@@ -12,5 +12,7 @@ Since this entire website was designed and built using an Android mobile device,
 While the website works well on both Android and Apple devices, the only minor issue is the container alignment on Apple devices.
 
 --------
+New Update :-
+Hello friends here is the announcement, I fixed the error and now my profolio page is also adjusted according to apple device, so you are not going to face any issue while opening it into the Apple devices.💯
 
 Thank you so much for taking the time to visit my portfolio! Your support truly means a lot to me. 😊
