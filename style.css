@@ -221,7 +221,7 @@ hr{
   background: rgb(240, 228, 211);
   width: 80%;
   position: relative;
-  height: 400px;
+  height: 550px;
   border-radius: 20px;
 }
 
@@ -250,28 +250,37 @@ hr{
 }
 
 .education .circle2{
-  top: 40%;
+  top: 28%;
 }
 
 .education .circle3{
-  top: 70%;
+  top: 51%;
+}
+.education .circle4{
+  top: 78%;
+}
+.education .tenth{
+  position: absolute;
+  top: 7%;
+  left: 10%;
+  width: 36%;
 }
 .education .twelve {
   position: absolute;
-  top: 6%;
+  top: 27%;
   left: 53%;
   width: 20%;
 }
 
 .education .drop{
   position: absolute;
-  top: 38%;
+  top: 50%;
   left: 10%;
   width: 36%;
 }
 .education .college{
   position: absolute;
-  top: 68%;
+  top: 77%;
   left: 53%;
   width: 20%;
 }
