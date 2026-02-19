@@ -519,6 +519,7 @@ hr{
   background: rgb(250, 247, 243);
   border-radius: 10px;
   -webkit-backdrop-filter: blur(20px);
+   backdrop-filter: blur(20px);
 }
 
 .modes{
